@@ -1,2 +1,2 @@
 # Sudoku-AI
-Basic Sudoku game devveloped in pure Python.
+Basic Sudoku game developed in pure Python.
